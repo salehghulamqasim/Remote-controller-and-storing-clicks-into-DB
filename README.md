@@ -2,8 +2,13 @@
 This repository is about a website which is a remote control by clicking each button the clicks are sent to the database and stored. 
 Its main functionality is to be able to move the robot using remote control and to see where did the robot move to by seeing its moves in database.
 
+
 This is the webpage:
-<img width="1280" alt="Screen Shot 2022-08-16 at 8 21 57 PM" src="https://user-images.githubusercontent.com/100453330/184940539-0a65978e-1250-42fd-bf06-9e979f602714.png">
+<img width="1280" alt="Screen Shot 2022-08-21 at 1 36 30 AM" src="https://user-images.githubusercontent.com/100453330/185768309-b009497e-c643-40c8-a418-56ccbb2e852c.png">
+
+
+It also have chatbot which can assist the user on things like asking for contact or changing the way of controlling from button to voice and so much 🤖
+![Uploading Screen Shot 2022-08-21 at 1.37.57 AM.png…]()
 
 
 
