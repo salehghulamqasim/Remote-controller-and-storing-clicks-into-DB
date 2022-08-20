@@ -8,7 +8,7 @@ This is the webpage:
 
 
 It also have chatbot which can assist the user on things like asking for contact or changing the way of controlling from button to voice and so much 🤖
-![Uploading Screen Shot 2022-08-21 at 1.37.57 AM.png…]()
+<img width="1280" alt="Screen Shot 2022-08-21 at 1 39 36 AM" src="https://user-images.githubusercontent.com/100453330/185768364-81c08993-b4d6-403c-be45-86cfc5091bd0.png">
 
 
 
