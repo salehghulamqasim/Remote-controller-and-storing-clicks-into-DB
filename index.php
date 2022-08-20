@@ -70,6 +70,19 @@ if(isset($_GET['up']))
         </form>
     </center>
 
+	<script>
+	  window.watsonAssistantChatOptions = {
+	    integrationID: "6a4ba2af-294e-4e6b-995f-68bc4e20faec", // The ID of this integration.
+	    region: "au-syd", // The region your integration is hosted in.
+	    serviceInstanceID: "c3ff84f6-ab1a-4d39-8502-231ac13baba9", // The ID of your service instance.
+	    onLoad: function(instance) { instance.render(); }
+	  };
+	  setTimeout(function(){
+	    const t=document.createElement('script');
+	    t.src="https://web-chat.global.assistant.watson.appdomain.cloud/versions/" + (window.watsonAssistantChatOptions.clientVersion || 'latest') + "/WatsonAssistantChatEntry.js";
+	    document.head.appendChild(t);
+	  });
+	</script>
 </body>
 
 </html>
